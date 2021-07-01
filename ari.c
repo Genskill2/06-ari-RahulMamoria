@@ -22,7 +22,9 @@ string ari(string s){
      words++;
      i++;
      
-  }}}
+  }
+  }
+ }
   printf("Words %d\n", words);
   
   
@@ -73,7 +75,7 @@ float index=(4.71*((float)letters/words))+(0.5*((float)words/sentence))-21.43;
    
  /* return Index %f\n", index);
   return Ind %d", ind);*/
-     }
+     
 
 
 
